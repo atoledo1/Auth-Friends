@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  font-size: medium;
+  color: blueviolet;
+  background-color: cyan;
+}
+a {
+  text-decoration: darkblue;
+  font-size: large;
+  color: darkblue;
+  font-weight: bold;
+}
+label {
+  font-weight: bold;
+}
